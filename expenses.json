@@ -1,0 +1,10 @@
+{
+    "budget": 25000.0,
+    "expenses": [
+        {
+            "description": "750",
+            "category": "Travel",
+            "amount": 750.0
+        }
+    ]
+}
